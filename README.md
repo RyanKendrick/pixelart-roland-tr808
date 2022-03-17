@@ -1,5 +1,6 @@
-# Custom CSS Pixel Art 
-## Roland TR-808 Drum Machine
+# CSS Pixel Art - Roland TR-808
+
+### See [CodePen](https://codepen.io/ryankendrick/pen/GRyojMr).
 
 ## Get Started
 
@@ -8,8 +9,6 @@ git clone
 npm install
 npm start
 ```
-
-See [CodePen](https://codepen.io/ryankendrick/pen/GRyojMr).
 
 ## Preview
 
