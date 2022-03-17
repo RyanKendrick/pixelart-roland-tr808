@@ -5,7 +5,7 @@
 ## Get Started
 
 ```
-git clone https://github.com/RyanKendrick/pixelart-roland-tr808.git
+git clone
 npm install
 npm start
 ```
