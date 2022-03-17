@@ -5,11 +5,11 @@
 ## Get Started
 
 ```
-git clone
+git clone https://github.com/RyanKendrick/pixelart-roland-tr808.git
 npm install
 npm start
 ```
 
 ## Preview
 
-![Pixel Art Drum Machine.](https://github.com/RyanKendrick/pixelart-roland-tr808/blob/main/public/Roland-tr808.png?raw=true "Pixel Art Drum Machine."){:target="_blank"}
+![Pixel Art Drum Machine.](https://github.com/RyanKendrick/pixelart-roland-tr808/blob/main/public/Roland-tr808.png?raw=true "Pixel Art Drum Machine.")
